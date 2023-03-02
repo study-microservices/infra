@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
         - name: posts
-          image: study-microservices/posts
+          image: kafelix496/study-microservices-posts
